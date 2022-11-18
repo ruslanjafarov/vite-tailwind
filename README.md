@@ -1,5 +1,5 @@
 <p align="center"><img src="https://vitejs.dev/logo.svg" height="100"/><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="100"/></p>
-<h1 align="center">Vite</h1>
+<h1 align="center">Vite + Tailwind</h1>
 Before using u need to download <a href="https://nodejs.org/" target="_blank">NodeJS</a>
 
 
